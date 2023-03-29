@@ -3,6 +3,6 @@ The repository includes a python packageto solve 1D advection problems using a f
 
 
 ### Authors 
-Carpio Mateo.¹, Villares Andrés¹
+Carpio Mateo, Villares Andrés
  
 School of Physical Sciences and Nanotechnology, Yachay Tech. 
